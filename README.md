@@ -1,2 +1,2 @@
 # ContactList
-Created with CodeSandbox
+Training with React
