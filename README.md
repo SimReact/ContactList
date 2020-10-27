@@ -1,2 +1,2 @@
 # ContactList
-Training React
+Learning React (Tuesday)
