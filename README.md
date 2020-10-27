@@ -1,2 +1,2 @@
 # ContactList
-Training with React
+Training React
