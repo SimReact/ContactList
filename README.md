@@ -1,2 +1,2 @@
 # ContactList
-Learning React (Tuesday)
+Learning React (Tuesday, 27 November 2020)
